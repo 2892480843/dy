@@ -1,0 +1,14 @@
+api/.venv/
+api/data/audio/*
+!api/data/audio/.gitkeep
+api/data/cache/*
+!api/data/cache/.gitkeep
+web/.next/
+web/node_modules/
+*.pyc
+__pycache__/
+.env
+.env.local
+*.log
+*.tsbuildinfo
+.DS_Store
